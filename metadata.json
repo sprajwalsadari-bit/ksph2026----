@@ -1,0 +1,6 @@
+{
+  "name": "Karnataka Police SCRB Strategic Intelligence Hub",
+  "description": "Command-center Crime Intelligence & Analytical Platform for Karnataka State Crime Records Bureau (SCRB)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
